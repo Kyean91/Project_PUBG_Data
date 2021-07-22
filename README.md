@@ -1,6 +1,7 @@
 # Project_PUBG_Data
 - 데이터 출처 : https://www.kaggle.com/skihikingkevin/pubg-match-deaths
 - 담당한 데이터 셋 : solo / duo / squad 중 squad 데이터 담당
+- 프로젝트 참여인원 : 김석연, 이광호, 임예원
 ---
 ## 날짜별 진행 현황
 ### 7월 20일
